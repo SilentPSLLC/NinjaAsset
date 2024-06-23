@@ -1,0 +1,2 @@
+# NinjaAsset
+test
